@@ -6,7 +6,7 @@
 
 ---
 
-###10/14/24:
+### 10/14/24:
 * I was unable to start Unity for now so instead I started to read the Documentation
 * Game View VS Scene view
   Game view shows how the game looks through the player
@@ -26,7 +26,10 @@ Using a tutorial, I learned the UI of the app and what it contains
 * inspector allows you to change those objects
 Following the tutorial, I tried adding physics and adding a component to a cube (gravity)
 
+### 10/27/24
 
+using videos from this (site)[https://kidscancode.org/godot_recipes/4.x/g101/start/index.html ]
+node is an object that can represent some kind of specialized game function.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
