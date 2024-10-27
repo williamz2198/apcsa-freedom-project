@@ -28,8 +28,14 @@ Following the tutorial, I tried adding physics and adding a component to a cube 
 
 ### 10/27/24
 
-using videos from this (site)[https://kidscancode.org/godot_recipes/4.x/g101/start/index.html ]
-node is an object that can represent some kind of specialized game function.
+using videos from this site: https://kidscancode.org/godot_recipes/4.x/g101/start/index.html
+
+* node is an object that can represent some kind of specialized game function
+* nodes are the "objects" or maybe classes
+* created a sprite2D node and inspected it to see its properties
+* sprite2D is an object of multiple other classes, each time adding on a new property
+* you can put a node inside another node and it will become its "children" - if you move the adult, the child will also move
+* you can attach a script to a node and use it to control the node
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
