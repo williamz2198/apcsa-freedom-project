@@ -36,6 +36,17 @@ using videos from this site: https://kidscancode.org/godot_recipes/4.x/g101/star
 * sprite2D is an object of multiple other classes, each time adding on a new property
 * you can put a node inside another node and it will become its "children" - if you move the adult, the child will also move
 * you can attach a script to a node and use it to control the node
+
+### 11/17/24
+
+Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile map and its properties
+
+* I strugged to download the files onto my tilemap but eventually got it to work
+* I need to create a tile set after create a TileMap node into the scene. 
+* then I drag the files onto the scene
+* this allows me to directly add the tiles onto my file map
+* right click allows me to delete
+* to place an object over another, I need to add layers
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
