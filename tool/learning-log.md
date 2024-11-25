@@ -47,6 +47,14 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 * this allows me to directly add the tiles onto my file map
 * right click allows me to delete
 * to place an object over another, I need to add layers
+
+### 11/24/24
+
+* I created a bigger scene and I used the newer layers tile map
+* I created boundaries of the properties in case for movement
+* I thought about my own tilemap to use
+* tried to figure out how to create some movement using the tile map
+* however, i could not figure out or find the right tutorial
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
