@@ -55,6 +55,13 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 * I thought about my own tilemap to use
 * tried to figure out how to create some movement using the tile map
 * however, i could not figure out or find the right tutorial
+
+### 12/1/24
+
+* made an interactive tilemap that changes if they are a certain tile using https://www.youtube.com/watch?v=O4AQtCWNQmo
+* tried to create a node that interacts when clicked
+* using the documentation and the script, I managed to make the icon display sometimes in the output when it is clicked
+* however, i want to make a tile interactive and need to test how to make a tile work the same way
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
