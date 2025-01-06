@@ -62,6 +62,11 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 * tried to create a node that interacts when clicked
 * using the documentation and the script, I managed to make the icon display sometimes in the output when it is clicked
 * however, i want to make a tile interactive and need to test how to make a tile work the same way
+
+### 1/5/25
+
+* as a group, we decided to connect our projects on godot with github so we can collaborate
+* I created some sprite of buildings and the character so we could get started on our project
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
