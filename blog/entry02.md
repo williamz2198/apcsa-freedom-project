@@ -1,4 +1,4 @@
-# Entry 1
+# Entry 2
 ##### 12/6/25
 
   Nearing the start of December into winter break, I wanted to get started on making my project. Therefore, I started to do research on the type of game that my group wanted. As a group, we decided that we wanted to make a tilemap game using godot and we were able to control a character in the game as a "major" or "leader". This way, we were able to use our knowledge of creating a node and use it as a camera. 
