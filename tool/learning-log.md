@@ -67,6 +67,14 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 
 * as a group, we decided to connect our projects on godot with github so we can collaborate
 * I created some sprite of buildings and the character so we could get started on our project
+
+### 3/3/25
+
+* created a 3d tile for the character model
+* created a 2d tile for the common house
+* imported the two images to godot
+* Attempted to create a tileset for these images but it didn't work, it seems i would need more tiles for a proper tile set
+* next time, i will create a full tile set or use a template so I can add collision for my character model and make a tile map
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
