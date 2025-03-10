@@ -83,6 +83,7 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 * changed the default character model with my own model
 * tested the collisions of the map
 * next time, I will change adjust the nodes that we have to make sure they line up and work properly with eachother
+* rewatched older videos from before to refresh my memory
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
