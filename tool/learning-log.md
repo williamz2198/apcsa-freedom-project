@@ -75,6 +75,14 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 * imported the two images to godot
 * Attempted to create a tileset for these images but it didn't work, it seems i would need more tiles for a proper tile set
 * next time, i will create a full tile set or use a template so I can add collision for my character model and make a tile map
+
+### 3/10/25
+
+* used a tileset from online as a temperary tilemap
+* create a tilemap
+* changed the default character model with my own model
+* tested the collisions of the map
+* next time, I will change adjust the nodes that we have to make sure they line up and work properly with eachother
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
