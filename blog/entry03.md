@@ -1,7 +1,11 @@
 # Entry 3
-##### X/X/XX
+##### 2/10/25
 
-Text
+During the break, I decided to brainstorm ideas for sprites for my freedom project and it was going to look like. The break was when me and my group decided to get started on our freedom project by putting things together and the first thing we needed were the assets we were going to use. Through the use of an online website called [Piskel](https://www.piskelapp.com/p/create/sprite) where I created the sprites of the building and character where the character was 16x16 pixels while the buildings were 32x32. 
+
+Since we were getting started by creating our project, we needed to collaborate and connect our godot project together. Through a [YouTube tutorial](https://www.youtube.com/watch?v=fZ-CJIYPFMI), we followed the steps so our godot files would be connected to Github if we make any changes. 
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
