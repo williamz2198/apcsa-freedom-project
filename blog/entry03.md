@@ -5,7 +5,7 @@ During the break, I decided to brainstorm ideas for sprites for my freedom proje
 
 Here is something that I created:
 
-[image](New Piskel-1.png (3).png)
+[image](CharacterModel.png)
 
 Since we were getting started by creating our project, we needed to collaborate and connect our godot project together. Through a [YouTube tutorial](https://www.youtube.com/watch?v=fZ-CJIYPFMI), we followed the steps so our godot files would be connected to Github if we make any changes. This process was extremely confusing because the tutorial would only show for the person that would be making the project but wouldn't show how it would connect the other group members. After much dificultly, we were finally able to connect our project together. 
 
