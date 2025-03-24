@@ -84,6 +84,13 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 * tested the collisions of the map
 * next time, I will change adjust the nodes that we have to make sure they line up and work properly with eachother
 * rewatched older videos from before to refresh my memory
+
+### 3/23/25
+
+* added trees for more scenery by importing another design
+* I tried to fix a visualization error by removing the background on one of the tiles but it did not work as when I looked it up, the tools needed required money
+* Used https://www.youtube.com/watch?v=GiZuWjXmvcc to add collisions on both the border and the trees
+* I used the collision polygon 2d to create the border for the outside and created a condition to where if the player was in front of the tree, it would go in front and if the player was behind the tree, the player would be behind
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
