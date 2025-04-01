@@ -91,6 +91,14 @@ Using https://www.youtube.com/watch?v=ZutpG0_CYrQ, I played around with a tile m
 * I tried to fix a visualization error by removing the background on one of the tiles but it did not work as when I looked it up, the tools needed required money
 * Used https://www.youtube.com/watch?v=GiZuWjXmvcc to add collisions on both the border and the trees
 * I used the collision polygon 2d to create the border for the outside and created a condition to where if the player was in front of the tree, it would go in front and if the player was behind the tree, the player would be behind
+
+### 3/31
+
+* I added the buildings from my 2d Models
+* I tried to create a shop using this tutorial [https://www.youtube.com/watch?v=-IdFbcKro2c&list=PLylNHWOqRhsHLNvcthzeOjkAHzveDtgLk&index=2](https://www.youtube.com/watch?v=-IdFbcKro2c&list=PLylNHWOqRhsHLNvcthzeOjkAHzveDtgLk&index=2)
+* I had to update my partner's currently menu that he worked on because it was small and very little detail
+* I added the building from the model into the stop
+* I struggled on learning the godot script because it was my first time using it and the file system was confusing as I didn't understand whether or not the user had it or not
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
