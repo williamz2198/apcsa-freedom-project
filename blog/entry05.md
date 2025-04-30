@@ -7,7 +7,7 @@ Me and Zi Xuan Yu also worked together in a discord call to figure out how to de
 
 In the end, we figured out a function that would convert the pixel coordinates to the tile coordinates. By making the pixel coordinates position relative to the position of the tile, it checks the position of both and how they relate to eachother. This uses `local_to_map` so it can convert the coordinates of the local workpace to the tilemap coordinate. 
 
-```GDscript
+```
 func get_building_position(pos: Vector2):
 	return $"../../TileMapLayer".local_to_map(
 		$"../../TileMapLayer".to_local(
