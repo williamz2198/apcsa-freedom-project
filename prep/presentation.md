@@ -2,18 +2,18 @@
 
 ## Hook
 * Story
-- story that gives an introduction to the character
-- it would simulate people coming to a new land for a better life
+ - story that gives an introduction to the character
+ - it would simulate people coming to a new land for a better life
 
 ## Product
 * live demo of how the game works
 
 ## Process
 * creating our building, (interactions and menu)
-- seperating into buttons and using the Godot functions
-- example of a func
+ - seperating into buttons and using the Godot functions
+ - example of a func
 * Tilemap Annoyances
-- nodes and tilemaps do not directly respond to eachother
+ - nodes and tilemaps do not directly respond to eachother
 
 ## Conclusion
 * 
