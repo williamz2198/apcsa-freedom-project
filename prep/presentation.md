@@ -13,10 +13,11 @@
   - seperating into buttons and using the Godot functions
   - example of a func
 * Tilemap Annoyances
-      - nodes and tilemaps do not directly respond to eachother
+  - nodes and tilemaps do not directly respond to eachother
 
 ## Conclusion
-* 
+* Takeaways on teamwork and commiting errors
+* things we want to add like trading
 
 <!-- EXAMPLE
 
