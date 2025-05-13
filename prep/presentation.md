@@ -2,8 +2,8 @@
 
 ## Hook
 * Story
- - story that gives an introduction to the character
- - it would simulate people coming to a new land for a better life
+   - story that gives an introduction to the character
+   - it would simulate people coming to a new land for a better life
 
 ## Product
 * live demo of how the game works
