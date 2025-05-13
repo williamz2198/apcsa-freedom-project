@@ -1,7 +1,8 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Story
+ * 
 
 ## Product
 * 
